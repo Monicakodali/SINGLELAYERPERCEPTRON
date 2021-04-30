@@ -3,5 +3,7 @@ Here, a single layer perceptron functioning in auto-associative mode is designed
 The goal  is to optimize the SLP to give the best possible results.
 
 Two approaches have been dealt with:
+
 Approach 1 : Heteroassociate model 
+
 Aprroach 2: Autoassociate model
