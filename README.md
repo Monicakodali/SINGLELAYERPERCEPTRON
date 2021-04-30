@@ -4,6 +4,6 @@ The goal  is to optimize the SLP to give the best possible results.
 
 Two approaches have been dealt with:
 
-Approach 1 : Heteroassociate model 
+Approach 1 (SLP1.ipynb) : Heteroassociate model 
 
-Aprroach 2: Autoassociate model
+Aprroach 2(SLP3.ipynb): Autoassociate model
